@@ -1,12 +1,12 @@
 Summary:	Secure Shell (SSH) FingerPrint (FP) DNS RR Generator
 Summary(pl.UTF-8):	Generator rekordów DNS typu Secure Shell (SSH) FingerPrint (FP)
 Name:		sshfp
-Version:	1.1.2
+Version:	1.1.3
 Release:	1
 License:	GPL v2
 Group:		Base
 Source0:	ftp://ftp.xelerance.com/sshfp/%{name}-%{version}.tar.gz
-# Source0-md5:	807626e651a0a7619f67eb088eb04ece
+# Source0-md5:	c354b2f7d7c910fd75e3f16f05d8007b
 URL:		ftp://ftp.xelerance.com/sshfp/
 BuildRequires:	rpm-pythonprov
 Requires:	python-dns
